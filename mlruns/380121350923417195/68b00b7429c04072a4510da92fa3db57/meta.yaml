@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/romai/Desktop/OC_Romain_Vairo/P7_VAIRO_ROMAIN_3/mlruns/380121350923417195/68b00b7429c04072a4510da92fa3db57/artifacts
+end_time: 1680452378826
+entry_point_name: ''
+experiment_id: '380121350923417195'
+lifecycle_stage: active
+run_id: 68b00b7429c04072a4510da92fa3db57
+run_name: Régression Logistique Count Lemmatized
+run_uuid: 68b00b7429c04072a4510da92fa3db57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680452372777
+status: 3
+tags: []
+user_id: romai
